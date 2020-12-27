@@ -1,0 +1,100 @@
+{
+  "base_url":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/tinified/",
+  "array": [
+    {
+      "id": "1",
+      "name": "acer",
+      "url": "acer.png"
+    },
+    {
+      "id": "2",
+      "name": "android",
+      "url": "android.png"
+    },
+    {
+      "id": "3",
+      "name": "asus",
+      "url": "asus.png"
+    },
+    {
+      "id": "4",
+      "name": "dell",
+      "url": "dell.png"
+    },
+    {
+      "id": "5",
+      "name": "google",
+      "url": "google.png"
+    },
+    {
+      "id": "6",
+      "name": "hp",
+      "url": "hp.png"
+    },
+    {
+      "id": "7",
+      "name": "htc",
+      "url": "htc.png"
+    },
+    {
+      "id": "8",
+      "name": "huawei",
+      "url": "huawei.png"
+    },
+    {
+      "id": "9",
+      "name": "karbonn",
+      "url": "karbonn.png"
+    },
+    {
+      "id": "10",
+      "name": "lava",
+      "url": "lava.png"
+    },
+    {
+      "id": "11",
+      "name": "lenovo",
+      "url": "lenovo.png"
+    },
+    {
+      "id": "12",
+      "name": "lg",
+      "url": "lg.png"
+    },
+    {
+      "id": "13",
+      "name": "nokia",
+      "url": "nokia.png"
+    },
+    {
+      "id": "14",
+      "name": "one-plus",
+      "url": "one-plus.png"
+    },
+    {
+      "id": "15",
+      "name": "oppo",
+      "url": "oppo.png"
+    },
+    {
+      "id": "16",
+      "name": "samsung",
+      "url": "samsung.png"
+    },
+    {
+      "id": "17",
+      "name": "sony",
+      "url": "sony.png"
+    },
+    {
+      "id": "18",
+      "name": "vivo",
+      "url": "vivo.png"
+    },
+    {
+      "id": "19",
+      "name": "xiaomi",
+      "url": "xiaomi.png"
+    }
+  ]
+}
