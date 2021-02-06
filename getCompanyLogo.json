@@ -1,6 +1,69 @@
 {
-  "base_url":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/company_logo/tinified_company_logo/",
-  "array": [
+  "base_url_android_version":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/android_version/",
+  "base_url_mobile_logo":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/company_logo/tinified_company_logo/",
+  "android_versions": [
+	{
+	  "id":1,
+	  "name":"Android Lollipop",
+	  "version":21,
+	  "url":"lollipop.png"
+	},
+	{
+	  "id":2,
+	  "name":"Android Lollipop",
+	  "version":22,
+	  "url":"lollipop.png"
+	},
+	{
+	  "id":3,
+	  "name":"Android Marshmallow",
+	  "version":23,
+	  "url":"marshmallow.png"
+	},
+	{
+	  "id":4,
+	  "name":"Android Nougat",
+	  "version":24,
+	  "url":"nougat.png"
+	},
+	{
+	  "id":5,
+	  "name":"Android Nougat",
+	  "version":25,
+	  "url":"nougat.png"
+	},
+	{
+	  "id":6,
+	  "name":"Android Oreo",
+	  "version":26,
+	  "url":"oreo.png"
+	},
+	{
+	  "id":7,
+	  "name":"Android Oreo",
+	  "version":27,
+	  "url":"oreo.png"
+	},
+	{
+	  "id":8,
+	  "name":"Android Pie",
+	  "version":28,
+	  "url":"pie.png"
+	},
+	{
+	  "id":9,
+	  "name":"Android 10",
+	  "version":29,
+	  "url":"q.png"
+	},
+	{
+	  "id":10,
+	  "name":"Android 11",
+	  "version":30,
+	  "url":"r.png"
+	}
+  ],
+  "mobile_logos": [
     {
       "id": 1,
       "name": "acer",
